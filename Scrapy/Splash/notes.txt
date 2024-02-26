@@ -1,0 +1,1 @@
+create a scrap project first, and install splash+scrap lib and copy the required entries on setting.xml file
